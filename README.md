@@ -48,8 +48,7 @@ Currently working and learning:
 - *Spring boots*
 - *VueJS*
 - *JavaScript*
-- *MySQL*
-- *Server*
+- *MySQL Server*
 - *Git*
 - *Github*
 - *Svn*
