@@ -1,7 +1,7 @@
 
 # Twillio SMS send
 
-Code made to send SMS with the Twillio API
+Code developed to send SMS using the Twilio API
 
 
 ## Technologies used
