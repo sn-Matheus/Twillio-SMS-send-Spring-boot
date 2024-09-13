@@ -52,4 +52,7 @@ Currently working and learning:
 - *Git*
 - *Github*
 - *Svn*
+- *Flutter*
+- *Dart*
+- *kotlin*
 
